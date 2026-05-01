@@ -1,0 +1,16 @@
+<Application x:Class="SkyAlpsACARS.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SkyAlpsACARS"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="SkyAlpsBlue" Color="#1E3A5F"/>
+        <SolidColorBrush x:Key="SkyAlpsLight" Color="#4A90D9"/>
+        <SolidColorBrush x:Key="SkyAlpsGold" Color="#D4AF37"/>
+        <SolidColorBrush x:Key="BackgroundDark" Color="#0D1B2A"/>
+        <SolidColorBrush x:Key="TextLight" Color="#E0E0E0"/>
+        <SolidColorBrush x:Key="SuccessGreen" Color="#2ECC71"/>
+        <SolidColorBrush x:Key="WarningOrange" Color="#F39C12"/>
+        <SolidColorBrush x:Key="DangerRed" Color="#E74C3C"/>
+    </Application.Resources>
+</Application>
